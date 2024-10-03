@@ -1,5 +1,8 @@
 # Vault MFA TOTP Demo
 Demonstrates using TOTP with VAULT.
+We will use a demo instance of vault by default.  
+If you want to use an existing vault instance, omit the setup.sh part
+
 
 run setup.sh
 copy the root token that is displayed
